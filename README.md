@@ -1,5 +1,5 @@
 # OMDb API Testing 
-This project involves testing the [OMDb API](https://www.omdbapi.com/), which is a RESTful web service that provides movie information. The goal is to practice and develop skills in API automation testing, implementing positive and negative tests to ensure robust API behavior and error handling. I also utilized Postman for exploratory testing. A HTML report is generated, which includes a summary of the test results.
+This project involves testing the [OMDb API](https://www.omdbapi.com/), which is a RESTful web service that provides movie information. The goal is to practice and develop skills in API automation testing, implementing positive and negative tests to ensure robust API behavior and error handling. I also utilized Postman for exploratory testing. An HTML report is generated, which includes a summary of the test results.
 
 ## Technologies
 - Python
